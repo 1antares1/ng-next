@@ -1,6 +1,6 @@
 import { browser, by, element } from 'protractor';
 
-export class Ng4TestPage {
+export class NgNextPage {
   navigateTo() {
     return browser.get('/');
   }

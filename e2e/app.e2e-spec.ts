@@ -1,10 +1,10 @@
-import { Ng4TestPage } from './app.po';
+import { NgNextPage } from './app.po';
 
-describe('ng4-test App', () => {
-  let page: Ng4TestPage;
+describe('ng-next App', () => {
+  let page: NgNextPage;
 
   beforeEach(() => {
-    page = new Ng4TestPage();
+    page = new NgNextPage();
   });
 
   it('should display welcome message', () => {
