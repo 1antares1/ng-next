@@ -1,1 +1,1 @@
-# ng6-test
+# ng-text
